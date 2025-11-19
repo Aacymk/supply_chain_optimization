@@ -1,0 +1,19 @@
+# venv
+venv/
+.venv/
+
+# pycache
+
+__pycache__/
+*.pyc
+
+# env variables / keys
+.env
+*.env
+.env.*
+
+# OS files
+.DS_Store
+
+# IDE 
+.vscode/
